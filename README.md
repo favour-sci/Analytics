@@ -1,2 +1,2 @@
 # Analytics
-My first repository on GitHub
+Exploratory Data Analysis for Pizza Sales
